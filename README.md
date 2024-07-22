@@ -23,6 +23,7 @@ which can then be observed as they unfold. "R" Hotkey may be used to clear the f
 unintented interactions of the patterns with the randomly generated cells of the initial board.
 
 Left Click: "revive" a cell that is currently dead at the location of the cursor.
+
 Right Click: "kill" a cell that is currently alive at the location of the cursor.
 
 
