@@ -6,10 +6,15 @@ Implements multithreading and direct drawing to Panels to facilitate performance
 Controls:
 
 Mouse Wheel held down: Scroll the view of the playing board
+
 Mouse Scroll Up/Down: Zoom in/out view of the playing board  
+
 Left/Right Arrow Keys: decrease/increase simulation speed
+
 Spacebar: pause/resume simulation
+
 R: clear the board of all cells
+
 Escape: Terminate the program
 
 For ease of use, the following hotkeys are recommended to be used while the simulation is paused.
