@@ -1,5 +1,5 @@
 # Game Of Life
-Interactive Graphical User Interface Implementation of the popular Game of Life by John Horton Conway
+Interactive Graphical User Interface Implementation of the popular "Game of Life" by John Horton Conway
 
 Implements multithreading and direct drawing to Panels to facilitate performance at larger board sizes.
 
