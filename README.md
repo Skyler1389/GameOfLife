@@ -5,10 +5,6 @@ Implements multithreading and direct drawing to Panels to facilitate performance
 
 Controls:
 
-Mouse Wheel held down: Scroll the view of the playing board
-
-Mouse Scroll Up/Down: Zoom in/out view of the playing board  
-
 Left/Right Arrow Keys: decrease/increase simulation speed
 
 Spacebar: pause/resume simulation
@@ -25,5 +21,11 @@ unintented interactions of the patterns with the randomly generated cells of the
 Left Click: "revive" a cell that is currently dead at the location of the cursor.
 
 Right Click: "kill" a cell that is currently alive at the location of the cursor.
+
+Not fully implemented/deactivated:
+
+Mouse Wheel held down: Scroll the view of the playing board
+
+Mouse Scroll Up/Down: Zoom in/out view of the playing board  
 
 
