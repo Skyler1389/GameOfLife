@@ -3,6 +3,8 @@ Interactive Graphical User Interface Implementation of the popular Game of Life 
 
 Implements multithreading and direct drawing to Panels to facilitate performance at larger board sizes.
 
+Properties of the board & simulation can be edited through static variables in main.
+
 Controls:
 
 Left/Right Arrow Keys: decrease/increase simulation speed
